@@ -36,7 +36,7 @@ def div(a, b):
 # Exponent function
 # a -- base
 # b -- power
-def exp(a, b)
+def exp(a, b) :
 	return a ** b
 
 
